@@ -1,1 +1,1 @@
-ah foda-se é uma calculadora em C
+ah é uma calculadora em C
